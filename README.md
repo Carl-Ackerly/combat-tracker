@@ -1,5 +1,5 @@
 # Combat Tracker
 
-A browser-local D&D combat resource tracker. Character saves stay on each device.
+A browser-local combat resource tracker. Character saves stay on each device.
 
-Enable GitHub Pages in Settings → Pages → Deploy from a branch → main → /(root).
+Enable GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root).
