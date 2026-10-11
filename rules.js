@@ -179,6 +179,6 @@ function reconcile(character,previous={}){
   next[r.id]={max,current:Math.max(0,max-spent),...(old?.override!==undefined?{override:old.override}:{})};
  }return next;
 }
-function rest(character,type){for(const r of generate(character)){const pool=character.resources[r.id];if(!pool||r.kind==='reminder')continue;if(type==='long'&&r.reset!=='none'&&!(r.id==='cleric:intervention'&&r.reset==='manual')&&r.id!=='wizard:ward')pool.current=pool.max;else if(type==='short'){if(r.reset==='short')pool.current=pool.max;if(r.reset==='one')pool.current=Math.min(pool.max,pool.current+1)}}if(type==='long'){character.hp=character.maxHp;character.tempHp=0}return character}
+function rest(character,type){for(const r of generate(character)){const pool=character.resources[r.id];if(!pool||r.kind==='reminder')continue;if(type==='long'&&r.reset!=='none'&&!(r.id==='cleric:intervention'&&r.reset==='manual')&&r.id!=='wizard:ward')pool.current=pool.max;else if(type==='short'){if(r.reset==='short')pool.current=pool.max;if(r.reset==='one')pool.current=Math.min(pool.max,pool.current+1)}}return character}
 const api={SUBCLASSES,SLOTS,generate,reconcile,rest};root.CombatRules=api;if(typeof module!=='undefined')module.exports=api;
 })(typeof window!=='undefined'?window:globalThis);
