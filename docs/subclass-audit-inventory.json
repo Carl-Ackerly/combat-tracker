@@ -1,0 +1,1930 @@
+[
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Berserker",
+    "level": 3,
+    "name": "Frenzy",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Berserker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Berserker",
+    "level": 6,
+    "name": "Mindless Rage",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Berserker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Berserker",
+    "level": 10,
+    "name": "Retaliation",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Berserker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Berserker",
+    "level": 14,
+    "name": "Intimidating Presence",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Berserker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Wild Heart",
+    "level": 3,
+    "name": "Animal Speaker",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Wild%20Heart?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Wild Heart",
+    "level": 3,
+    "name": "Rage of the Wilds",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Wild%20Heart?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Wild Heart",
+    "level": 6,
+    "name": "Aspect of the Wilds",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Wild%20Heart?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Wild Heart",
+    "level": 10,
+    "name": "Nature Speaker",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Wild%20Heart?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Wild Heart",
+    "level": 14,
+    "name": "Power of the Wilds",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Wild%20Heart?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the World Tree",
+    "level": 3,
+    "name": "Vitality of the Tree",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20World%20Tree?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the World Tree",
+    "level": 6,
+    "name": "Branches of the Tree",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20World%20Tree?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the World Tree",
+    "level": 10,
+    "name": "Battering Roots",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20World%20Tree?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the World Tree",
+    "level": 14,
+    "name": "Travel along the Tree",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20World%20Tree?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Zealot",
+    "level": 3,
+    "name": "Divine Fury",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Zealot?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Zealot",
+    "level": 3,
+    "name": "Warrior of the Gods",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Zealot?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Zealot",
+    "level": 6,
+    "name": "Fanatical Focus",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Zealot?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Zealot",
+    "level": 10,
+    "name": "Zealous Presence",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Zealot?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Barbarian",
+    "subclass": "Path of the Zealot",
+    "level": 14,
+    "name": "Rage of the Gods",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Path%20of%20the%20Zealot?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Dance",
+    "level": 3,
+    "name": "Dazzling Footwork",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Dance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Dance",
+    "level": 6,
+    "name": "Inspiring Movement",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Dance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Dance",
+    "level": 6,
+    "name": "Tandem Footwork",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Dance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Dance",
+    "level": 14,
+    "name": "Leading Evasion",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Dance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Glamour",
+    "level": 3,
+    "name": "Beguiling Magic",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Glamour?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Glamour",
+    "level": 3,
+    "name": "Mantle of Inspiration",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Glamour?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Glamour",
+    "level": 6,
+    "name": "Mantle of Majesty",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Glamour?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Glamour",
+    "level": 14,
+    "name": "Unbreakable Majesty",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Glamour?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Lore",
+    "level": 3,
+    "name": "Bonus Proficiencies",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Lore?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Lore",
+    "level": 3,
+    "name": "Cutting Words",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Lore?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Lore",
+    "level": 6,
+    "name": "Magical Discoveries",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Lore?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Lore",
+    "level": 14,
+    "name": "Peerless Skill",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Lore?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Valor",
+    "level": 3,
+    "name": "Combat Inspiration",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Valor?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Valor",
+    "level": 3,
+    "name": "Martial Training",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Valor?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Valor",
+    "level": 6,
+    "name": "Extra Attack",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Valor?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Bard",
+    "subclass": "College of Valor",
+    "level": 14,
+    "name": "Battle Magic",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:College%20of%20Valor?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Life Domain",
+    "level": 3,
+    "name": "Disciple of Life",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Life%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Life Domain",
+    "level": 3,
+    "name": "Life Domain Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Life%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Life Domain",
+    "level": 3,
+    "name": "Preserve Life",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Life%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Life Domain",
+    "level": 6,
+    "name": "Blessed Healer",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Life%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Life Domain",
+    "level": 17,
+    "name": "Supreme Healing",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Life%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Light Domain",
+    "level": 3,
+    "name": "Light Domain Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Light%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Light Domain",
+    "level": 3,
+    "name": "Radiance of the Dawn",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Light%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Light Domain",
+    "level": 3,
+    "name": "Warding Flare",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Light%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Light Domain",
+    "level": 6,
+    "name": "Improved Warding Flare",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Light%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Light Domain",
+    "level": 17,
+    "name": "Corona of Light",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Light%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Trickery Domain",
+    "level": 3,
+    "name": "Blessing of the Trickster",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Trickery%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Trickery Domain",
+    "level": 3,
+    "name": "Invoke Duplicity",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Trickery%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Trickery Domain",
+    "level": 3,
+    "name": "Trickery Domain Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Trickery%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Trickery Domain",
+    "level": 6,
+    "name": "Trickster’s Transposition",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Trickery%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "Trickery Domain",
+    "level": 17,
+    "name": "Improved Duplicity",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Trickery%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "War Domain",
+    "level": 3,
+    "name": "Guided Strike",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:War%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "War Domain",
+    "level": 3,
+    "name": "War Domain Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:War%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "War Domain",
+    "level": 3,
+    "name": "War Priest",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:War%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "War Domain",
+    "level": 6,
+    "name": "War God’s Blessing",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:War%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Cleric",
+    "subclass": "War Domain",
+    "level": 17,
+    "name": "Avatar of Battle",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:War%20Domain?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Land",
+    "level": 3,
+    "name": "Circle of the Land Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Land?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Land",
+    "level": 3,
+    "name": "Land’s Aid",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Land?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Land",
+    "level": 6,
+    "name": "Natural Recovery",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Land?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Land",
+    "level": 10,
+    "name": "Nature’s Ward",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Land?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Land",
+    "level": 14,
+    "name": "Nature’s Sanctuary",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Land?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Moon",
+    "level": 3,
+    "name": "Circle Forms",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Moon?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Moon",
+    "level": 3,
+    "name": "Circle of the Moon Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Moon?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Moon",
+    "level": 6,
+    "name": "Improved Circle Forms",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Moon?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Moon",
+    "level": 10,
+    "name": "Moonlight Step",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Moon?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Moon",
+    "level": 14,
+    "name": "Lunar Form",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Moon?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Sea",
+    "level": 3,
+    "name": "Circle of the Sea Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Sea?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Sea",
+    "level": 3,
+    "name": "Wrath of the Sea",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Sea?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Sea",
+    "level": 6,
+    "name": "Aquatic Affinity",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Sea?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Sea",
+    "level": 10,
+    "name": "Stormborn",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Sea?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Sea",
+    "level": 14,
+    "name": "Oceanic Gift",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Sea?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Stars",
+    "level": 3,
+    "name": "Star Map",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Stars?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Stars",
+    "level": 3,
+    "name": "Starry Form",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Stars?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Stars",
+    "level": 6,
+    "name": "Cosmic Omen",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Stars?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Stars",
+    "level": 10,
+    "name": "Twinkling Constellations",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Stars?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Druid",
+    "subclass": "Circle of the Stars",
+    "level": 14,
+    "name": "Full of Stars",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Circle%20of%20the%20Stars?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Battle Master",
+    "level": 3,
+    "name": "Combat Superiority",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Battle%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Battle Master",
+    "level": 3,
+    "name": "Student of War",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Battle%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Battle Master",
+    "level": 7,
+    "name": "Know Your Enemy",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Battle%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Battle Master",
+    "level": 10,
+    "name": "Improved Combat Superiority",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Battle%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Battle Master",
+    "level": 15,
+    "name": "Relentless",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Battle%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Battle Master",
+    "level": 18,
+    "name": "Ultimate Combat Superiority",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Battle%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Champion",
+    "level": 3,
+    "name": "Improved Critical",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Champion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Champion",
+    "level": 3,
+    "name": "Remarkable Athlete",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Champion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Champion",
+    "level": 7,
+    "name": "Additional Fighting Style",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Champion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Champion",
+    "level": 10,
+    "name": "Heroic Warrior",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Champion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Champion",
+    "level": 15,
+    "name": "Superior Critical",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Champion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Champion",
+    "level": 18,
+    "name": "Survivor",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Champion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Eldritch Knight",
+    "level": 3,
+    "name": "Spellcasting",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Eldritch%20Knight?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Eldritch Knight",
+    "level": 3,
+    "name": "War Bond",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Eldritch%20Knight?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Eldritch Knight",
+    "level": 7,
+    "name": "War Magic",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Eldritch%20Knight?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Eldritch Knight",
+    "level": 10,
+    "name": "Eldritch Strike",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Eldritch%20Knight?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Eldritch Knight",
+    "level": 15,
+    "name": "Arcane Charge",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Eldritch%20Knight?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Eldritch Knight",
+    "level": 18,
+    "name": "Improved War Magic",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Eldritch%20Knight?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Psi Warrior",
+    "level": 3,
+    "name": "Psionic Power",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Psi%20Warrior?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Psi Warrior",
+    "level": 7,
+    "name": "Telekinetic Adept",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Psi%20Warrior?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Psi Warrior",
+    "level": 10,
+    "name": "Guarded Mind",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Psi%20Warrior?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Psi Warrior",
+    "level": 15,
+    "name": "Bulwark of Force",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Psi%20Warrior?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Fighter",
+    "subclass": "Psi Warrior",
+    "level": 18,
+    "name": "Telekinetic Master",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Psi%20Warrior?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Mercy",
+    "level": 3,
+    "name": "Hand of Harm",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Mercy?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Mercy",
+    "level": 3,
+    "name": "Hand of Healing",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Mercy?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Mercy",
+    "level": 3,
+    "name": "Implements of Mercy",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Mercy?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Mercy",
+    "level": 6,
+    "name": "Physician’s Touch",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Mercy?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Mercy",
+    "level": 11,
+    "name": "Flurry of Healing and Harm",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Mercy?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Mercy",
+    "level": 17,
+    "name": "Hand of Ultimate Mercy",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Mercy?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Shadow",
+    "level": 3,
+    "name": "Shadow Arts",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Shadow?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Shadow",
+    "level": 6,
+    "name": "Shadow Step",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Shadow?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Shadow",
+    "level": 11,
+    "name": "Improved Shadow Step",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Shadow?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of Shadow",
+    "level": 17,
+    "name": "Cloak of Shadows",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20Shadow?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Elements",
+    "level": 3,
+    "name": "Elemental Attunement",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Elements?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Elements",
+    "level": 3,
+    "name": "Manipulate Elements",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Elements?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Elements",
+    "level": 6,
+    "name": "Elemental Burst",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Elements?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Elements",
+    "level": 11,
+    "name": "Stride of the Elements",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Elements?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Elements",
+    "level": 17,
+    "name": "Elemental Epitome",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Elements?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Open Hand",
+    "level": 3,
+    "name": "Open Hand Technique",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Open%20Hand?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Open Hand",
+    "level": 6,
+    "name": "Wholeness of Body",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Open%20Hand?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Open Hand",
+    "level": 11,
+    "name": "Fleet Step",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Open%20Hand?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Monk",
+    "subclass": "Warrior of the Open Hand",
+    "level": 17,
+    "name": "Quivering Palm",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Warrior%20of%20the%20Open%20Hand?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Devotion",
+    "level": 3,
+    "name": "Oath of Devotion Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Devotion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Devotion",
+    "level": 3,
+    "name": "Sacred Weapon",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Devotion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Devotion",
+    "level": 7,
+    "name": "Aura of Devotion",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Devotion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Devotion",
+    "level": 15,
+    "name": "Smite of Protection",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Devotion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Devotion",
+    "level": 20,
+    "name": "Holy Nimbus",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Devotion?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Glory",
+    "level": 3,
+    "name": "Inspiring Smite",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Glory?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Glory",
+    "level": 3,
+    "name": "Oath of Glory Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Glory?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Glory",
+    "level": 3,
+    "name": "Peerless Athlete",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Glory?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Glory",
+    "level": 7,
+    "name": "Aura of Alacrity",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Glory?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Glory",
+    "level": 15,
+    "name": "Glorious Defense",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Glory?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Glory",
+    "level": 20,
+    "name": "Living Legend",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Glory?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of the Ancients",
+    "level": 3,
+    "name": "Nature’s Wrath",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20the%20Ancients?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of the Ancients",
+    "level": 3,
+    "name": "Oath of the Ancients Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20the%20Ancients?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of the Ancients",
+    "level": 7,
+    "name": "Aura of Warding",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20the%20Ancients?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of the Ancients",
+    "level": 15,
+    "name": "Undying Sentinel",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20the%20Ancients?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of the Ancients",
+    "level": 20,
+    "name": "Elder Champion",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20the%20Ancients?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Vengeance",
+    "level": 3,
+    "name": "Oath of Vengeance Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Vengeance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Vengeance",
+    "level": 3,
+    "name": "Vow of Enmity",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Vengeance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Vengeance",
+    "level": 7,
+    "name": "Relentless Avenger",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Vengeance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Vengeance",
+    "level": 15,
+    "name": "Soul of Vengeance",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Vengeance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Paladin",
+    "subclass": "Oath of Vengeance",
+    "level": 20,
+    "name": "Avenging Angel",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Oath%20of%20Vengeance?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Beast Master",
+    "level": 3,
+    "name": "Primal Companion",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Beast%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Beast Master",
+    "level": 7,
+    "name": "Exceptional Training",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Beast%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Beast Master",
+    "level": 11,
+    "name": "Bestial Fury",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Beast%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Beast Master",
+    "level": 15,
+    "name": "Share Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Beast%20Master?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Fey Wanderer",
+    "level": 3,
+    "name": "Dreadful Strikes",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fey%20Wanderer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Fey Wanderer",
+    "level": 3,
+    "name": "Fey Wanderer Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fey%20Wanderer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Fey Wanderer",
+    "level": 3,
+    "name": "Otherworldly Glamour",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fey%20Wanderer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Fey Wanderer",
+    "level": 7,
+    "name": "Beguiling Twist",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fey%20Wanderer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Fey Wanderer",
+    "level": 11,
+    "name": "Fey Reinforcements",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fey%20Wanderer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Fey Wanderer",
+    "level": 15,
+    "name": "Misty Wanderer",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fey%20Wanderer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Gloom Stalker",
+    "level": 3,
+    "name": "Dread Ambusher",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Gloom%20Stalker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Gloom Stalker",
+    "level": 3,
+    "name": "Gloom Stalker Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Gloom%20Stalker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Gloom Stalker",
+    "level": 3,
+    "name": "Umbral Sight",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Gloom%20Stalker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Gloom Stalker",
+    "level": 7,
+    "name": "Iron Mind",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Gloom%20Stalker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Gloom Stalker",
+    "level": 11,
+    "name": "Stalker’s Flurry",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Gloom%20Stalker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Gloom Stalker",
+    "level": 15,
+    "name": "Shadowy Dodge",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Gloom%20Stalker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Hunter",
+    "level": 3,
+    "name": "Hunter’s Lore",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Hunter?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Hunter",
+    "level": 3,
+    "name": "Hunter’s Prey",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Hunter?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Hunter",
+    "level": 7,
+    "name": "Defensive Tactics",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Hunter?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Hunter",
+    "level": 11,
+    "name": "Superior Hunter’s Prey",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Hunter?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Ranger",
+    "subclass": "Hunter",
+    "level": 15,
+    "name": "Superior Hunter’s Defense",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Hunter?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Arcane Trickster",
+    "level": 3,
+    "name": "Spellcasting",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Arcane%20Trickster?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Arcane Trickster",
+    "level": 3,
+    "name": "Mage Hand Legerdemain",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Arcane%20Trickster?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Arcane Trickster",
+    "level": 9,
+    "name": "Magical Ambush",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Arcane%20Trickster?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Arcane Trickster",
+    "level": 13,
+    "name": "Versatile Trickster",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Arcane%20Trickster?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Arcane Trickster",
+    "level": 17,
+    "name": "Spell Thief",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Arcane%20Trickster?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Assassin",
+    "level": 3,
+    "name": "Assassinate",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Assassin?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Assassin",
+    "level": 3,
+    "name": "Assassin’s Tools",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Assassin?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Assassin",
+    "level": 9,
+    "name": "Infiltration Expertise",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Assassin?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Assassin",
+    "level": 13,
+    "name": "Envenom Weapons",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Assassin?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Assassin",
+    "level": 17,
+    "name": "Death Strike",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Assassin?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Soulknife",
+    "level": 3,
+    "name": "Psionic Power",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Soulknife?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Soulknife",
+    "level": 3,
+    "name": "Psychic Blades",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Soulknife?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Soulknife",
+    "level": 9,
+    "name": "Soul Blades",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Soulknife?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Soulknife",
+    "level": 13,
+    "name": "Psychic Veil",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Soulknife?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Soulknife",
+    "level": 17,
+    "name": "Rend Mind",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Soulknife?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Thief",
+    "level": 3,
+    "name": "Fast Hands",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Thief?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Thief",
+    "level": 3,
+    "name": "Second-Story Work",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Thief?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Thief",
+    "level": 9,
+    "name": "Supreme Sneak",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Thief?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Thief",
+    "level": 13,
+    "name": "Use Magic Device",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Thief?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Rogue",
+    "subclass": "Thief",
+    "level": 17,
+    "name": "Thief’s Reflexes",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Thief?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Aberrant Sorcery",
+    "level": 3,
+    "name": "Psionic Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Aberrant%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Aberrant Sorcery",
+    "level": 3,
+    "name": "Telepathic Speech",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Aberrant%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Aberrant Sorcery",
+    "level": 6,
+    "name": "Psionic Sorcery",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Aberrant%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Aberrant Sorcery",
+    "level": 6,
+    "name": "Psychic Defenses",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Aberrant%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Aberrant Sorcery",
+    "level": 14,
+    "name": "Revelation in Flesh",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Aberrant%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Aberrant Sorcery",
+    "level": 18,
+    "name": "Warping Implosion",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Aberrant%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Clockwork Sorcery",
+    "level": 3,
+    "name": "Clockwork Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Clockwork%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Clockwork Sorcery",
+    "level": 3,
+    "name": "Restore Balance",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Clockwork%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Clockwork Sorcery",
+    "level": 6,
+    "name": "Bastion of Law",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Clockwork%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Clockwork Sorcery",
+    "level": 14,
+    "name": "Trance of Order",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Clockwork%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Clockwork Sorcery",
+    "level": 18,
+    "name": "Clockwork Cavalcade",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Clockwork%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Draconic Sorcery",
+    "level": 3,
+    "name": "Draconic Resilience",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Draconic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Draconic Sorcery",
+    "level": 3,
+    "name": "Draconic Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Draconic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Draconic Sorcery",
+    "level": 6,
+    "name": "Elemental Affinity",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Draconic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Draconic Sorcery",
+    "level": 14,
+    "name": "Dragon Wings",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Draconic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Draconic Sorcery",
+    "level": 18,
+    "name": "Dragon Companion",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Draconic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Wild Magic Sorcery",
+    "level": 3,
+    "name": "Wild Magic Surge",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Wild%20Magic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Wild Magic Sorcery",
+    "level": 3,
+    "name": "Tides of Chaos",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Wild%20Magic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Wild Magic Sorcery",
+    "level": 6,
+    "name": "Bend Luck",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Wild%20Magic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Wild Magic Sorcery",
+    "level": 14,
+    "name": "Controlled Chaos",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Wild%20Magic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Sorcerer",
+    "subclass": "Wild Magic Sorcery",
+    "level": 18,
+    "name": "Tamed Surge",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Wild%20Magic%20Sorcery?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Archfey Patron",
+    "level": 3,
+    "name": "Archfey Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Archfey%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Archfey Patron",
+    "level": 3,
+    "name": "Steps of the Fey",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Archfey%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Archfey Patron",
+    "level": 6,
+    "name": "Misty Escape",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Archfey%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Archfey Patron",
+    "level": 10,
+    "name": "Beguiling Defenses",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Archfey%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Archfey Patron",
+    "level": 14,
+    "name": "Bewitching Magic",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Archfey%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Celestial Patron",
+    "level": 3,
+    "name": "Celestial Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Celestial%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Celestial Patron",
+    "level": 3,
+    "name": "Healing Light",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Celestial%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Celestial Patron",
+    "level": 6,
+    "name": "Radiant Soul",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Celestial%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Celestial Patron",
+    "level": 10,
+    "name": "Celestial Resilience",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Celestial%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Celestial Patron",
+    "level": 14,
+    "name": "Searing Vengeance",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Celestial%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Fiend Patron",
+    "level": 3,
+    "name": "Dark One’s Blessing",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fiend%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Fiend Patron",
+    "level": 3,
+    "name": "Fiend Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fiend%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Fiend Patron",
+    "level": 6,
+    "name": "Dark One’s Own Luck",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fiend%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Fiend Patron",
+    "level": 10,
+    "name": "Fiendish Resilience",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fiend%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Fiend Patron",
+    "level": 14,
+    "name": "Hurl Through Hell",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Fiend%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Great Old One Patron",
+    "level": 3,
+    "name": "Awakened Mind",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Great%20Old%20One%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Great Old One Patron",
+    "level": 3,
+    "name": "Great Old One Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Great%20Old%20One%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Great Old One Patron",
+    "level": 3,
+    "name": "Psychic Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Great%20Old%20One%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Great Old One Patron",
+    "level": 6,
+    "name": "Clairvoyant Combatant",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Great%20Old%20One%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Great Old One Patron",
+    "level": 10,
+    "name": "Eldritch Hex",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Great%20Old%20One%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Great Old One Patron",
+    "level": 10,
+    "name": "Thought Shield",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Great%20Old%20One%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Warlock",
+    "subclass": "Great Old One Patron",
+    "level": 14,
+    "name": "Create Thrall",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Great%20Old%20One%20Patron?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Abjurer",
+    "level": 3,
+    "name": "Abjuration Savant",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Abjurer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Abjurer",
+    "level": 3,
+    "name": "Arcane Ward",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Abjurer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Abjurer",
+    "level": 6,
+    "name": "Projected Ward",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Abjurer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Abjurer",
+    "level": 10,
+    "name": "Spell Breaker",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Abjurer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Abjurer",
+    "level": 14,
+    "name": "Spell Resistance",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Abjurer?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Diviner",
+    "level": 3,
+    "name": "Divination Savant",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Diviner?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Diviner",
+    "level": 3,
+    "name": "Portent",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Diviner?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Diviner",
+    "level": 6,
+    "name": "Expert Divination",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Diviner?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Diviner",
+    "level": 10,
+    "name": "The Third Eye",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Diviner?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Diviner",
+    "level": 14,
+    "name": "Greater Portent",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Diviner?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Evoker",
+    "level": 3,
+    "name": "Evocation Savant",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Evoker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Evoker",
+    "level": 3,
+    "name": "Potent Cantrip",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Evoker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Evoker",
+    "level": 6,
+    "name": "Sculpt Spells",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Evoker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Evoker",
+    "level": 10,
+    "name": "Empowered Evocation",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Evoker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Evoker",
+    "level": 14,
+    "name": "Overchannel",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Evoker?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Illusionist",
+    "level": 3,
+    "name": "Illusion Savant",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Illusionist?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Illusionist",
+    "level": 3,
+    "name": "Improved Illusions",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Illusionist?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Illusionist",
+    "level": 6,
+    "name": "Phantasmal Creatures",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Illusionist?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Illusionist",
+    "level": 10,
+    "name": "Illusory Self",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Illusionist?expansion=32231",
+    "reference": true
+  },
+  {
+    "class": "Wizard",
+    "subclass": "Illusionist",
+    "level": 14,
+    "name": "Illusory Reality",
+    "source": "https://roll20.net/compendium/dnd5e/Subclasses:Illusionist?expansion=32231",
+    "reference": true
+  }
+]
