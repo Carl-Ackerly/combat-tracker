@@ -1,0 +1,1398 @@
+{
+  "source": "https://www.dndbeyond.com/sources/dnd/br-2024/character-classes",
+  "scope": "Official public base classes and 12 public subclasses. Inventory is not proof of semantic correctness.",
+  "features": [
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 1,
+      "name": "Rage"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 1,
+      "name": "Unarmored Defense"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 1,
+      "name": "Weapon Mastery"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 2,
+      "name": "Danger Sense"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 2,
+      "name": "Reckless Attack"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 3,
+      "name": "Barbarian Subclass"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 3,
+      "name": "Primal Knowledge"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 5,
+      "name": "Extra Attack"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 5,
+      "name": "Fast Movement"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 7,
+      "name": "Feral Instinct"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 7,
+      "name": "Instinctive Pounce"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 9,
+      "name": "Brutal Strike"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 11,
+      "name": "Relentless Rage"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 13,
+      "name": "Improved Brutal Strike"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 15,
+      "name": "Persistent Rage"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 17,
+      "name": "Improved Brutal Strike"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 18,
+      "name": "Indomitable Might"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "",
+      "level": 20,
+      "name": "Primal Champion"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "Path of the Berserker",
+      "level": 3,
+      "name": "Frenzy"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "Path of the Berserker",
+      "level": 6,
+      "name": "Mindless Rage"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "Path of the Berserker",
+      "level": 10,
+      "name": "Retaliation"
+    },
+    {
+      "class": "Barbarian",
+      "subclass": "Path of the Berserker",
+      "level": 14,
+      "name": "Intimidating Presence"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 1,
+      "name": "Bardic Inspiration"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 1,
+      "name": "Spellcasting"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 2,
+      "name": "Expertise"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 2,
+      "name": "Jack of All Trades"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 3,
+      "name": "Bard Subclass"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 5,
+      "name": "Font of Inspiration"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 7,
+      "name": "Countercharm"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 10,
+      "name": "Magical Secrets"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 18,
+      "name": "Superior Inspiration"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Bard",
+      "subclass": "",
+      "level": 20,
+      "name": "Words of Creation"
+    },
+    {
+      "class": "Bard",
+      "subclass": "College of Lore",
+      "level": 3,
+      "name": "Bonus Proficiencies"
+    },
+    {
+      "class": "Bard",
+      "subclass": "College of Lore",
+      "level": 3,
+      "name": "Cutting Words"
+    },
+    {
+      "class": "Bard",
+      "subclass": "College of Lore",
+      "level": 6,
+      "name": "Magical Discoveries"
+    },
+    {
+      "class": "Bard",
+      "subclass": "College of Lore",
+      "level": 14,
+      "name": "Peerless Skill"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 1,
+      "name": "Spellcasting"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 1,
+      "name": "Divine Order"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 2,
+      "name": "Channel Divinity"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 3,
+      "name": "Cleric Subclass"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 5,
+      "name": "Sear Undead"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 7,
+      "name": "Blessed Strikes"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 10,
+      "name": "Divine Intervention"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 14,
+      "name": "Improved Blessed Strikes"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "",
+      "level": 20,
+      "name": "Greater Divine Intervention"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "Life Domain",
+      "level": 3,
+      "name": "Disciple of Life"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "Life Domain",
+      "level": 3,
+      "name": "Life Domain Spells"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "Life Domain",
+      "level": 3,
+      "name": "Preserve Life"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "Life Domain",
+      "level": 6,
+      "name": "Blessed Healer"
+    },
+    {
+      "class": "Cleric",
+      "subclass": "Life Domain",
+      "level": 17,
+      "name": "Supreme Healing"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 1,
+      "name": "Spellcasting"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 1,
+      "name": "Druidic"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 1,
+      "name": "Primal Order"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 2,
+      "name": "Wild Shape"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 2,
+      "name": "Wild Companion"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 3,
+      "name": "Druid Subclass"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 5,
+      "name": "Wild Resurgence"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 7,
+      "name": "Elemental Fury"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 15,
+      "name": "Improved Elemental Fury"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 18,
+      "name": "Beast Spells"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Druid",
+      "subclass": "",
+      "level": 20,
+      "name": "Archdruid"
+    },
+    {
+      "class": "Druid",
+      "subclass": "Circle of the Land",
+      "level": 3,
+      "name": "Circle of the Land Spells"
+    },
+    {
+      "class": "Druid",
+      "subclass": "Circle of the Land",
+      "level": 3,
+      "name": "Land’s Aid"
+    },
+    {
+      "class": "Druid",
+      "subclass": "Circle of the Land",
+      "level": 6,
+      "name": "Natural Recovery"
+    },
+    {
+      "class": "Druid",
+      "subclass": "Circle of the Land",
+      "level": 10,
+      "name": "Nature’s Ward"
+    },
+    {
+      "class": "Druid",
+      "subclass": "Circle of the Land",
+      "level": 14,
+      "name": "Nature’s Sanctuary"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 1,
+      "name": "Fighting Style"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 1,
+      "name": "Second Wind"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 1,
+      "name": "Weapon Mastery"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 2,
+      "name": "Action Surge"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 2,
+      "name": "Tactical Mind"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 3,
+      "name": "Fighter Subclass"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 5,
+      "name": "Extra Attack"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 5,
+      "name": "Tactical Shift"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 9,
+      "name": "Indomitable"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 9,
+      "name": "Tactical Master"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 11,
+      "name": "Two Extra Attacks"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 13,
+      "name": "Studied Attacks"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "",
+      "level": 20,
+      "name": "Three Extra Attacks"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "Champion",
+      "level": 3,
+      "name": "Improved Critical"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "Champion",
+      "level": 3,
+      "name": "Remarkable Athlete"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "Champion",
+      "level": 7,
+      "name": "Additional Fighting Style"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "Champion",
+      "level": 10,
+      "name": "Heroic Warrior"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "Champion",
+      "level": 15,
+      "name": "Superior Critical"
+    },
+    {
+      "class": "Fighter",
+      "subclass": "Champion",
+      "level": 18,
+      "name": "Survivor"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 1,
+      "name": "Martial Arts"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 1,
+      "name": "Unarmored Defense"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 2,
+      "name": "Monk’s Focus"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 2,
+      "name": "Unarmored Movement"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 2,
+      "name": "Uncanny Metabolism"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 3,
+      "name": "Deflect Attacks"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 3,
+      "name": "Monk Subclass"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 4,
+      "name": "Slow Fall"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 5,
+      "name": "Extra Attack"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 5,
+      "name": "Stunning Strike"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 6,
+      "name": "Empowered Strikes"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 7,
+      "name": "Evasion"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 9,
+      "name": "Acrobatic Movement"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 10,
+      "name": "Heightened Focus"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 10,
+      "name": "Self-Restoration"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 13,
+      "name": "Deflect Energy"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 14,
+      "name": "Disciplined Survivor"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 15,
+      "name": "Perfect Focus"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 18,
+      "name": "Superior Defense"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Monk",
+      "subclass": "",
+      "level": 20,
+      "name": "Body and Mind"
+    },
+    {
+      "class": "Monk",
+      "subclass": "Warrior of the Open Hand",
+      "level": 3,
+      "name": "Open Hand Technique"
+    },
+    {
+      "class": "Monk",
+      "subclass": "Warrior of the Open Hand",
+      "level": 6,
+      "name": "Wholeness of Body"
+    },
+    {
+      "class": "Monk",
+      "subclass": "Warrior of the Open Hand",
+      "level": 11,
+      "name": "Fleet Step"
+    },
+    {
+      "class": "Monk",
+      "subclass": "Warrior of the Open Hand",
+      "level": 17,
+      "name": "Quivering Palm"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 1,
+      "name": "Lay On Hands"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 1,
+      "name": "Spellcasting"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 1,
+      "name": "Weapon Mastery"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 2,
+      "name": "Fighting Style"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 2,
+      "name": "Paladin’s Smite"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 3,
+      "name": "Channel Divinity"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 3,
+      "name": "Paladin Subclass"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 5,
+      "name": "Extra Attack"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 5,
+      "name": "Faithful Steed"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 6,
+      "name": "Aura of Protection"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 9,
+      "name": "Abjure Foes"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 10,
+      "name": "Aura of Courage"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 11,
+      "name": "Radiant Strikes"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 14,
+      "name": "Restoring Touch"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 18,
+      "name": "Aura Expansion"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "Oath of Devotion",
+      "level": 3,
+      "name": "Oath of Devotion Spells"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "Oath of Devotion",
+      "level": 3,
+      "name": "Sacred Weapon"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "Oath of Devotion",
+      "level": 7,
+      "name": "Aura of Devotion"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "Oath of Devotion",
+      "level": 15,
+      "name": "Smite of Protection"
+    },
+    {
+      "class": "Paladin",
+      "subclass": "Oath of Devotion",
+      "level": 20,
+      "name": "Holy Nimbus"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 1,
+      "name": "Spellcasting"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 1,
+      "name": "Favored Enemy"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 1,
+      "name": "Weapon Mastery"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 2,
+      "name": "Deft Explorer"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 2,
+      "name": "Fighting Style"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 3,
+      "name": "Ranger Subclass"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 5,
+      "name": "Extra Attack"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 6,
+      "name": "Roving"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 9,
+      "name": "Expertise"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 10,
+      "name": "Tireless"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 13,
+      "name": "Relentless Hunter"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 14,
+      "name": "Nature’s Veil"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 17,
+      "name": "Precise Hunter"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 18,
+      "name": "Feral Senses"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "",
+      "level": 20,
+      "name": "Foe Slayer"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "Hunter",
+      "level": 3,
+      "name": "Hunter’s Lore"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "Hunter",
+      "level": 3,
+      "name": "Hunter’s Prey"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "Hunter",
+      "level": 7,
+      "name": "Defensive Tactics"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "Hunter",
+      "level": 11,
+      "name": "Superior Hunter’s Prey"
+    },
+    {
+      "class": "Ranger",
+      "subclass": "Hunter",
+      "level": 15,
+      "name": "Superior Hunter’s Defense"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 1,
+      "name": "Expertise"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 1,
+      "name": "Sneak Attack"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 1,
+      "name": "Thieves’ Cant"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 1,
+      "name": "Weapon Mastery"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 2,
+      "name": "Cunning Action"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 3,
+      "name": "Rogue Subclass"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 3,
+      "name": "Steady Aim"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 5,
+      "name": "Cunning Strike"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 5,
+      "name": "Uncanny Dodge"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 7,
+      "name": "Evasion"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 7,
+      "name": "Reliable Talent"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 11,
+      "name": "Improved Cunning Strike"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 14,
+      "name": "Devious Strikes"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 15,
+      "name": "Slippery Mind"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 18,
+      "name": "Elusive"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "",
+      "level": 20,
+      "name": "Stroke of Luck"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "Thief",
+      "level": 3,
+      "name": "Fast Hands"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "Thief",
+      "level": 3,
+      "name": "Second-Story Work"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "Thief",
+      "level": 9,
+      "name": "Supreme Sneak"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "Thief",
+      "level": 13,
+      "name": "Use Magic Device"
+    },
+    {
+      "class": "Rogue",
+      "subclass": "Thief",
+      "level": 17,
+      "name": "Thief’s Reflexes"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 1,
+      "name": "Spellcasting"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 1,
+      "name": "Innate Sorcery"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 2,
+      "name": "Font of Magic"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 2,
+      "name": "Metamagic"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 3,
+      "name": "Sorcerer Subclass"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 5,
+      "name": "Sorcerous Restoration"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 7,
+      "name": "Sorcery Incarnate"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "",
+      "level": 20,
+      "name": "Arcane Apotheosis"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "Draconic Sorcery",
+      "level": 3,
+      "name": "Draconic Resilience"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "Draconic Sorcery",
+      "level": 3,
+      "name": "Draconic Spells"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "Draconic Sorcery",
+      "level": 6,
+      "name": "Elemental Affinity"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "Draconic Sorcery",
+      "level": 14,
+      "name": "Dragon Wings"
+    },
+    {
+      "class": "Sorcerer",
+      "subclass": "Draconic Sorcery",
+      "level": 18,
+      "name": "Dragon Companion"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 1,
+      "name": "Eldritch Invocations"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 1,
+      "name": "Pact Magic"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 2,
+      "name": "Magical Cunning"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 3,
+      "name": "Warlock Subclass"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 9,
+      "name": "Contact Patron"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 11,
+      "name": "Mystic Arcanum"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "",
+      "level": 20,
+      "name": "Eldritch Master"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "Fiend Patron",
+      "level": 3,
+      "name": "Dark One’s Blessing"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "Fiend Patron",
+      "level": 3,
+      "name": "Fiend Spells"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "Fiend Patron",
+      "level": 6,
+      "name": "Dark One’s Own Luck"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "Fiend Patron",
+      "level": 10,
+      "name": "Fiendish Resilience"
+    },
+    {
+      "class": "Warlock",
+      "subclass": "Fiend Patron",
+      "level": 14,
+      "name": "Hurl Through Hell"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 1,
+      "name": "Spellcasting"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 1,
+      "name": "Ritual Adept"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 1,
+      "name": "Arcane Recovery"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 2,
+      "name": "Scholar"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 3,
+      "name": "Wizard Subclass"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 4,
+      "name": "Ability Score Improvement"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 5,
+      "name": "Memorize Spell"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 18,
+      "name": "Spell Mastery"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 19,
+      "name": "Epic Boon"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "",
+      "level": 20,
+      "name": "Signature Spells"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "Evoker",
+      "level": 3,
+      "name": "Evocation Savant"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "Evoker",
+      "level": 3,
+      "name": "Potent Cantrip"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "Evoker",
+      "level": 6,
+      "name": "Sculpt Spells"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "Evoker",
+      "level": 10,
+      "name": "Empowered Evocation"
+    },
+    {
+      "class": "Wizard",
+      "subclass": "Evoker",
+      "level": 14,
+      "name": "Overchannel"
+    }
+  ]
+}
