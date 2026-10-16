@@ -1,4 +1,4 @@
-const CACHE='combat-tracker-siege-blue-v1';
+const CACHE='combat-tracker-backup-v1';
 const FILES=['ember-theme.css','crystal-theme.css','theme.js','./','index.html','style.css','rules.js','spells-data.js','spell-index-2024.js','class-rules-2024.js','subclass-reference-2024.js','subclass-grants-2024.js','invocations-2024.js','app.js','icon.svg','manifest.webmanifest'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('combat-tracker-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});

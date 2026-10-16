@@ -14,8 +14,19 @@ function classText(c){return c.classes.map(x=>x.name+' '+x.level+(x.subclass?' �
 function allResources(c){return [...R.generate(c),...(c.custom||[]).map(r=>({...r,group:'Custom',custom:true}))]}
 function openModal(html){hideHelp();$('modalBody').innerHTML=html;$('modal').showModal();$('modalBody').querySelector('[data-close]')?.addEventListener('click',()=>$('modal').close())}
 const closeButton='<button class="text-button" data-close aria-label="Close dialog">✕</button>';
-function library(){view='library';hideHelp();$('app').innerHTML=`<section class="character-book character-library"><header class="book-title"><div class="eyebrow">Your adventurers’ records</div><h1>My Characters</h1><div class="book-flourish" aria-hidden="true">◆</div><h2>Table of Contents</h2></header><div class="contents-entries character-contents">${db.characters.length?db.characters.map((c,i)=>`<button type="button" data-resume="${esc(c.id)}"><span class="chapter-number">${String(i+1).padStart(2,'0')}</span><span class="character-entry"><strong>${esc(c.name)}</strong><small>${esc(classText(c))}</small><small class="character-entry-stats">Level ${totalLevel(c)} · ${c.hp} / ${c.maxHp} HP</small></span><span class="chapter-arrow" aria-hidden="true">→</span></button>`).join(''):'<div class="library-empty"><p>Your book is waiting for its first adventurer.</p><p class="small">Create a character to begin.</p></div>'}</div><div class="library-create"><button class="primary" id="newCharacter">+ Create character</button></div><p class="small library-save-note">Characters and current progress save automatically in this browser on this device.</p></section>`;
- $('newCharacter').onclick=()=>setup();$('firstCharacter')?.addEventListener('click',()=>setup());
+function downloadBackup(){
+ if(!storageOK){announce('Browser storage is unavailable. Backup could not be created.');return}
+ try{
+  const contents=JSON.stringify(db,null,2);
+  const file=new Blob([contents],{type:'application/json'});
+  const url=URL.createObjectURL(file),link=document.createElement('a');
+  link.href=url;link.download='Character-Chronicle-backup-'+new Date().toISOString().replace(/[:.]/g,'-')+'.json';
+  document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),10000);
+  announce('Backup download requested. Keep the JSON file somewhere safe.');
+ }catch{announce('Backup could not be downloaded. Your saved characters were not changed.')}
+}
+function library(){view='library';hideHelp();$('app').innerHTML=`<section class="character-book character-library"><header class="book-title"><div class="eyebrow">Your adventurers’ records</div><h1>My Characters</h1><div class="book-flourish" aria-hidden="true">◆</div><h2>Table of Contents</h2></header><div class="contents-entries character-contents">${db.characters.length?db.characters.map((c,i)=>`<button type="button" data-resume="${esc(c.id)}"><span class="chapter-number">${String(i+1).padStart(2,'0')}</span><span class="character-entry"><strong>${esc(c.name)}</strong><small>${esc(classText(c))}</small><small class="character-entry-stats">Level ${totalLevel(c)} · ${c.hp} / ${c.maxHp} HP</small></span><span class="chapter-arrow" aria-hidden="true">→</span></button>`).join(''):'<div class="library-empty"><p>Your book is waiting for its first adventurer.</p><p class="small">Create a character to begin.</p></div>'}</div><div class="library-create"><button class="primary" id="newCharacter">+ Create character</button> <button class="secondary" id="downloadBackup" type="button">Download backup</button></div><p class="small library-save-note">Characters and current progress save automatically in this browser on this device.</p></section>`;
+ $('downloadBackup').onclick=downloadBackup;$('newCharacter').onclick=()=>setup();$('firstCharacter')?.addEventListener('click',()=>setup());
  document.querySelectorAll('[data-resume]').forEach(b=>b.onclick=()=>{db.active=b.dataset.resume;history=[];save();contents()});
  document.querySelectorAll('[data-edit]').forEach(b=>b.onclick=()=>setup(b.dataset.edit));
  document.querySelectorAll('[data-sessions]').forEach(b=>b.onclick=()=>{db.active=b.dataset.sessions;save();sessions()});
